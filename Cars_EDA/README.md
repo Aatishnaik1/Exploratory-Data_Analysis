@@ -16,6 +16,7 @@ This notebook (Cars.ipynb) includes:
 ✔️ Insights and conclusions
 
 # 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
@@ -24,6 +25,7 @@ Seaborn
 Jupyter Notebook
 
 # 📊 Key Insights
+
 Identified the highest and lowest priced vehicles
 Observed how mileage affects market value
 Compared engine performance metrics
@@ -32,13 +34,14 @@ Visualized multiple trends with clear charts
 (Actual insights depend on your dataset — you can update this section as needed.)
 
 # ▶️ How to Run
-# Clone the repository:
+
+Clone the repository:
 git clone <your-repo-url>
 
-# Install required dependencies:
+Install required dependencies:
 pip install -r requirements.txt
 
-# Install required dependencies:
+Install required dependencies:
 jupyter notebook Cars.ipynb
 
 # 📈 Sample Visualizations (Add as needed)
@@ -47,6 +50,7 @@ Correlation heatmaps
 Scatterplots: Price vs Mileage
 Bar charts comparing different fuel types
 
-⭐ Acknowledgements
+⭐# Acknowledgements
+
 Dataset source
 Open-source Python libraries

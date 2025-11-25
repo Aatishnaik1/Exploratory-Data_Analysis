@@ -6,13 +6,13 @@ This project explores factors such as car prices, mileage, engine specifications
 
 # 📘 Project Overview
 This notebook (Cars.ipynb) includes:
-✔️ Data loading and cleaning
-✔️ Handling missing values
-✔️ Feature exploration
-✔️ Statistical summaries
-✔️ Visualizations
-✔️ Relationship analysis (e.g., price vs mileage, fuel type impact, etc.)
-✔️ Insights and conclusions
+ *  Data loading and cleaning
+ *  Handling missing values
+ *  Feature exploration
+ *  Statistical summaries
+ *  Visualizations
+ *  Relationship analysis (e.g., price vs mileage, fuel type impact, etc.)
+ *  Insights and conclusions
 
 # 🛠️ Technologies Used
 Python

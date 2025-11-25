@@ -23,12 +23,12 @@ This notebook (Cars.ipynb) includes:
  * Jupyter Notebook
 
 # 📊 Key Insights
-Identified the highest and lowest priced vehicles
-Observed how mileage affects market value
-Compared engine performance metrics
-Analyzed the influence of fuel type on pricing
-Visualized multiple trends with clear charts
-(Actual insights depend on your dataset — you can update this section as needed.)
+ * Identified the highest and lowest priced vehicles
+ * Observed how mileage affects market value
+ * Compared engine performance metrics
+ * Analyzed the influence of fuel type on pricing
+ * Visualized multiple trends with clear charts
+   (Actual insights depend on your dataset — you can update this section as needed.)
 
 # ▶️ How to Run
 Clone the repository:

@@ -1,4 +1,4 @@
-# 🇮🇳 India Weather EDA Project
+# India Weather EDA Project
 
 This project performs an Exploratory Data Analysis (EDA) on real-time weather data of all Indian State and Union Territory capitals. The data was fetched using the OpenWeatherMap API and analyzed using Python to understand temperature, humidity, wind speed, pressure, and overall climatic variations across India.
 

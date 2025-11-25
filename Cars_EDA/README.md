@@ -4,7 +4,7 @@ A comprehensive exploratory data analysis (EDA) project performed using Python, 
 
 This project explores factors such as car prices, mileage, engine specifications, fuel type, and other key attributes, helping understand trends and relationships that influence automobile markets.
 
-📘 Project Overview
+# 📘 Project Overview
 This notebook (Cars.ipynb) includes:
 
 ✔️ Data loading and cleaning
@@ -15,7 +15,7 @@ This notebook (Cars.ipynb) includes:
 ✔️ Relationship analysis (e.g., price vs mileage, fuel type impact, etc.)
 ✔️ Insights and conclusions
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python
 Pandas
 NumPy
@@ -23,7 +23,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-📊 Key Insights
+# 📊 Key Insights
 Identified the highest and lowest priced vehicles
 Observed how mileage affects market value
 Compared engine performance metrics
@@ -31,7 +31,7 @@ Analyzed the influence of fuel type on pricing
 Visualized multiple trends with clear charts
 (Actual insights depend on your dataset — you can update this section as needed.)
 
-▶️ How to Run
+# ▶️ How to Run
 Clone the repository:
 git clone <your-repo-url>
 Install required dependencies:
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Install required dependencies:
 jupyter notebook Cars.ipynb
 
-📈 Sample Visualizations (Add as needed)
+# 📈 Sample Visualizations (Add as needed)
 Price distribution
 Correlation heatmaps
 Scatterplots: Price vs Mileage

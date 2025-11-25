@@ -28,8 +28,7 @@ This notebook (Cars.ipynb) includes:
  * Compared engine performance metrics
  * Analyzed the influence of fuel type on pricing
  * Visualized multiple trends with clear charts
-   (Actual insights depend on your dataset — you can update this section as needed.)
-
+   
 # ▶️ How to Run
 Clone the repository:
 git clone <your-repo-url>

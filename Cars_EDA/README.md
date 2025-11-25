@@ -32,11 +32,13 @@ Visualized multiple trends with clear charts
 (Actual insights depend on your dataset — you can update this section as needed.)
 
 # ▶️ How to Run
-Clone the repository:
+# Clone the repository:
 git clone <your-repo-url>
-Install required dependencies:
+
+# Install required dependencies:
 pip install -r requirements.txt
-Install required dependencies:
+
+# Install required dependencies:
 jupyter notebook Cars.ipynb
 
 # 📈 Sample Visualizations (Add as needed)

@@ -50,7 +50,7 @@ Correlation heatmaps
 Scatterplots: Price vs Mileage
 Bar charts comparing different fuel types
 
-⭐# Acknowledgements
+⭐ Acknowledgements
 
 Dataset source
 Open-source Python libraries

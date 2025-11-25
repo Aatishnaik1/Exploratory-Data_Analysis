@@ -1,9 +1,9 @@
-<h1 style="background: linear-gradient(to right, #4facfe, #8f94fb, #ffffff);
+<h1 style="background: linear-gradient(to right, #4facfe, #ffffff);
            -webkit-background-clip: text; 
-           color: transparent; 
-           font-size: 38px;">
+           color: transparent;">
 India Weather EDA Project
 </h1>
+
 This project performs an Exploratory Data Analysis (EDA) on real-time weather data of all Indian State and Union Territory capitals. The data was fetched using the OpenWeatherMap API and analyzed using Python to understand temperature, humidity, wind speed, pressure, and overall climatic variations across India.
 
 ## 📌 Project Overview

@@ -15,12 +15,12 @@ This notebook (Cars.ipynb) includes:
  *  Insights and conclusions
 
 # 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+ * Python
+ * Pandas
+ * NumPy
+ * Matplotlib
+ * Seaborn
+ * Jupyter Notebook
 
 # 📊 Key Insights
 Identified the highest and lowest priced vehicles
